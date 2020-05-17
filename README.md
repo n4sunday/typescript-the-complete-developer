@@ -76,11 +76,11 @@
 
 - [x] Lesson 48. App Overview
 - [x] Lesson 49. Bundling with Parcel
-- [ ] Lesson 50. Project Structure
-- [ ] Lesson 51. Generating Random Data
-- [ ] Lesson 52. Type Definition Files
-- [ ] Lesson 53. Using Type Definition Files
-- [ ] Lesson 54. Export Statements inTypescript
+- [x] Lesson 50. Project Structure
+- [x] Lesson 51. Generating Random Data
+- [x] Lesson 52. Type Definition Files
+- [x] Lesson 53. Using Type Definition Files
+- [x] Lesson 54. Export Statements inTypescript
 - [ ] Lesson 55. Defining a Company
 - [ ] Lesson 56. Adding Google Maps Support
 - [ ] Lesson 57. Google Maps Integration
