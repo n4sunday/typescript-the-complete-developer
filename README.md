@@ -49,9 +49,9 @@
 
 #### 6. Tuples in Typescript
 
-- [ ] Lesson 32. Tuples in Typescript
-- [ ] Lesson 33. Tuples in Action
-- [ ] Lesson 34. Why Tuples
+- [x] Lesson 32. Tuples in Typescript
+- [x] Lesson 33. Tuples in Action
+- [x] Lesson 34. Why Tuples
 
 #### 7. The All-Important Interface
 
