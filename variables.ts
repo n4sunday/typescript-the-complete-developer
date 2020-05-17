@@ -27,3 +27,8 @@ let fullname: { name: string; lastname: string } = {
   name: "Nattapon",
   lastname: "Lueakaew",
 };
+
+// Function
+const logNumber: (i: number) => void = (i: number) => {
+  console.log(i);
+};

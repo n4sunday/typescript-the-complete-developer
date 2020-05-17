@@ -20,8 +20,8 @@
 #### 3. Type Annotations in Action
 - [x] Lesson 13. Type Annotations and Inference
 - [X] Lesson 14. Annotations with Variables
-- [ ] Lesson 15. Object Literal Annotations
-- [ ] Lesson 16. Annotations Around Functions
+- [x] Lesson 15. Object Literal Annotations
+- [x] Lesson 16. Annotations Around Functions
 - [ ] Lesson 17. Understanding Inference
 - [ ] Lesson 18. The 'Any' Type
 - [ ] Lesson 19. Fixing the 'Any' Type
