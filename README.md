@@ -55,22 +55,22 @@
 
 #### 7. The All-Important Interface
 
-- [ ] Lesson 35. Interfaces
-- [ ] Lesson 36. Long Type Annotations
-- [ ] Lesson 37. Fixing Long Annotations with Interfaces
-- [ ] Lesson 38. Syntax Around Interfaces
-- [ ] Lesson 39. Functions in Interfaces
-- [ ] Lesson 40. Code Reuse with Interfaces
-- [ ] Lesson 41. General Plan with Interfaces
+- [x] Lesson 35. Interfaces
+- [x] Lesson 36. Long Type Annotations
+- [x] Lesson 37. Fixing Long Annotations with Interfaces
+- [x] Lesson 38. Syntax Around Interfaces
+- [x] Lesson 39. Functions in Interfaces
+- [x] Lesson 40. Code Reuse with Interfaces
+- [x] Lesson 41. General Plan with Interfaces
 
 #### 8. Building Functionality with Classes
 
-- [ ] Lesson 42. Classes
-- [ ] Lesson 43. Basic Inheritance
-- [ ] Lesson 44. Instance Method Modifiers
-- [ ] Lesson 45. Fields in Classes
-- [ ] Lesson 46. Fields with Inheritance
-- [ ] Lesson 47. Where to Use Classes
+- [x] Lesson 42. Classes
+- [x] Lesson 43. Basic Inheritance
+- [x] Lesson 44. Instance Method Modifiers
+- [x] Lesson 45. Fields in Classes
+- [x] Lesson 46. Fields with Inheritance
+- [x] Lesson 47. Where to Use Classes
 
 #### 9. Design Patterns with Typescript
 
