@@ -42,10 +42,10 @@
 
 #### 5. Mastering Typed Arrays
 
-- [ ] Lesson 28. Arrays in Typescript
-- [ ] Lesson 29. Why Typed Arrays
-- [ ] Lesson 30. Multiple Types in Arrays
-- [ ] Lesson 31. When to Use Typed Arrays
+- [x] Lesson 28. Arrays in Typescript
+- [x] Lesson 29. Why Typed Arrays
+- [x] Lesson 30. Multiple Types in Arrays
+- [x] Lesson 31. When to Use Typed Arrays
 
 #### 6. Tuples in Typescript
 
