@@ -11,15 +11,15 @@
 - [x] Lesson 7. Catching More Errors!
 
 #### 2. What is a Type System
-- [ ] Lesson 8. Do Not Skip - Course Overview
-- [ ] Lesson 9. Types
-- [ ] Lesson 10. More on Types
-- [ ] Lesson 11. Examples of Types
-- [ ] Lesson 12. Where Do We Use Types
+- [x] Lesson 8. Do Not Skip - Course Overview
+- [x] Lesson 9. Types
+- [x] Lesson 10. More on Types
+- [x] Lesson 11. Examples of Types
+- [x] Lesson 12. Where Do We Use Types
 
 #### 3. Type Annotations in Action
-- [ ] Lesson 13. Type Annotations and Inference
-- [ ] Lesson 14. Annotations with Variables
+- [x] Lesson 13. Type Annotations and Inference
+- [X] Lesson 14. Annotations with Variables
 - [ ] Lesson 15. Object Literal Annotations
 - [ ] Lesson 16. Annotations Around Functions
 - [ ] Lesson 17. Understanding Inference
