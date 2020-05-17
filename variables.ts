@@ -7,3 +7,23 @@ let nothing: undefined = undefined;
 
 // built in objects
 let now: Date = new Date();
+
+// Array
+let colors: string[] = ["red", "green", "blue"];
+let myNUmbers: number[] = [1, 2, 3, 4];
+let truths: boolean[] = [true, false, true];
+
+// Classes
+class Car {}
+let car: Car = new Car();
+
+// Object literal
+let point: { x: number; y: number } = {
+  x: 10,
+  y: 20,
+};
+
+let fullname: { name: string; lastname: string } = {
+  name: "Nattapon",
+  lastname: "Lueakaew",
+};
