@@ -33,12 +33,12 @@
 
 #### 4. Annotations With Functions and Objects
 
-- [ ] Lesson 22. More on Annotations Around Functions
-- [ ] Lesson 23. Inference Around Functions
-- [ ] Lesson 24. Annotations for Anonymous Functions
-- [ ] Lesson 25. Void and Never
-- [ ] Lesson 26. Destructuring with Annotations
-- [ ] Lesson 27. Annotations Around Objects
+- [x] Lesson 22. More on Annotations Around Functions
+- [x] Lesson 23. Inference Around Functions
+- [x] Lesson 24. Annotations for Anonymous Functions
+- [x] Lesson 25. Void and Never
+- [x] Lesson 26. Destructuring with Annotations
+- [x] Lesson 27. Annotations Around Objects
 
 #### 5. Mastering Typed Arrays
 
