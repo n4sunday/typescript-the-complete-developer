@@ -26,10 +26,10 @@
 - [x] Lesson 15. Object Literal Annotations
 - [x] Lesson 16. Annotations Around Functions
 - [x] Lesson 17. Understanding Inference
-- [ป] Lesson 18. The 'Any' Type
-- [ ] Lesson 19. Fixing the 'Any' Type
-- [ ] Lesson 20. Delayed Initialization
-- [ ] Lesson 21. When Inference Doesn't Work
+- [x] Lesson 18. The 'Any' Type
+- [x] Lesson 19. Fixing the 'Any' Type
+- [x] Lesson 20. Delayed Initialization
+- [x] Lesson 21. When Inference Doesn't Work
 
 #### 4. Annotations With Functions and Objects
 
