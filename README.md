@@ -75,7 +75,7 @@
 #### 9. Design Patterns with Typescript
 
 - [x] Lesson 48. App Overview
-- [ ] Lesson 49. Bundling with Parcel
+- [x] Lesson 49. Bundling with Parcel
 - [ ] Lesson 50. Project Structure
 - [ ] Lesson 51. Generating Random Data
 - [ ] Lesson 52. Type Definition Files
