@@ -3,11 +3,11 @@
 #### 1. Getting Started with Typescript
 - [x] Lesson 0. How to Get Help
 - [x] Lesson 1. Typescript Overview
-- [ ] Lesson 2. Environment Setup
-- [ ] Lesson 3. A First App
-- [ ] Lesson 4. Executing Typescript Code
-- [ ] Lesson 5. One Quick Change
-- [ ] Lesson 6. Catching Errors with Typescript
+- [x] Lesson 2. Environment Setup
+- [x] Lesson 3. A First App
+- [x] Lesson 4. Executing Typescript Code
+- [x] Lesson 5. One Quick Change
+- [x] Lesson 6. Catching Errors with Typescript
 - [ ] Lesson 7. Catching More Errors!
 
 #### 2. What is a Type System
