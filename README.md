@@ -8,7 +8,7 @@
 - [x] Lesson 4. Executing Typescript Code
 - [x] Lesson 5. One Quick Change
 - [x] Lesson 6. Catching Errors with Typescript
-- [ ] Lesson 7. Catching More Errors!
+- [x] Lesson 7. Catching More Errors!
 
 #### 2. What is a Type System
 - [ ] Lesson 8. Do Not Skip - Course Overview
