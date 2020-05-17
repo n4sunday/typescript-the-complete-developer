@@ -1,6 +1,7 @@
 # Typescript the Complete Developer
 
 #### 1. Getting Started with Typescript
+
 - [x] Lesson 0. How to Get Help
 - [x] Lesson 1. Typescript Overview
 - [x] Lesson 2. Environment Setup
@@ -11,6 +12,7 @@
 - [x] Lesson 7. Catching More Errors!
 
 #### 2. What is a Type System
+
 - [x] Lesson 8. Do Not Skip - Course Overview
 - [x] Lesson 9. Types
 - [x] Lesson 10. More on Types
@@ -18,17 +20,19 @@
 - [x] Lesson 12. Where Do We Use Types
 
 #### 3. Type Annotations in Action
+
 - [x] Lesson 13. Type Annotations and Inference
-- [X] Lesson 14. Annotations with Variables
+- [x] Lesson 14. Annotations with Variables
 - [x] Lesson 15. Object Literal Annotations
 - [x] Lesson 16. Annotations Around Functions
-- [ ] Lesson 17. Understanding Inference
-- [ ] Lesson 18. The 'Any' Type
+- [x] Lesson 17. Understanding Inference
+- [ป] Lesson 18. The 'Any' Type
 - [ ] Lesson 19. Fixing the 'Any' Type
 - [ ] Lesson 20. Delayed Initialization
 - [ ] Lesson 21. When Inference Doesn't Work
 
 #### 4. Annotations With Functions and Objects
+
 - [ ] Lesson 22. More on Annotations Around Functions
 - [ ] Lesson 23. Inference Around Functions
 - [ ] Lesson 24. Annotations for Anonymous Functions
@@ -37,17 +41,20 @@
 - [ ] Lesson 27. Annotations Around Objects
 
 #### 5. Mastering Typed Arrays
+
 - [ ] Lesson 28. Arrays in Typescript
 - [ ] Lesson 29. Why Typed Arrays
 - [ ] Lesson 30. Multiple Types in Arrays
 - [ ] Lesson 31. When to Use Typed Arrays
 
 #### 6. Tuples in Typescript
+
 - [ ] Lesson 32. Tuples in Typescript
 - [ ] Lesson 33. Tuples in Action
 - [ ] Lesson 34. Why Tuples
 
 #### 7. The All-Important Interface
+
 - [ ] Lesson 35. Interfaces
 - [ ] Lesson 36. Long Type Annotations
 - [ ] Lesson 37. Fixing Long Annotations with Interfaces
@@ -57,6 +64,7 @@
 - [ ] Lesson 41. General Plan with Interfaces
 
 #### 8. Building Functionality with Classes
+
 - [ ] Lesson 42. Classes
 - [ ] Lesson 43. Basic Inheritance
 - [ ] Lesson 44. Instance Method Modifiers
@@ -65,6 +73,7 @@
 - [ ] Lesson 47. Where to Use Classes
 
 #### 9. Design Patterns with Typescript
+
 - [ ] Lesson 48. App Overview
 - [ ] Lesson 49. Bundling with Parcel
 - [ ] Lesson 50. Project Structure
@@ -89,6 +98,7 @@
 - [ ] Lesson 69. App Wrapup
 
 #### 10. More on Design Patterns
+
 - [ ] Lesson 70. App Overview
 - [ ] Lesson 71. Configuring the TS Compiler
 - [ ] Lesson 72. Concurrent Compilation and Execution
