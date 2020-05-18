@@ -83,11 +83,11 @@
 - [x] Lesson 54. Export Statements inTypescript
 - [x] Lesson 55. Defining a Company
 - [x] Lesson 56. Adding Google Maps Support
-- [ ] Lesson 57. Google Maps Integration
-- [ ] Lesson 58. Exploring Type Definition Files
-- [ ] Lesson 59. Hiding Functionality
-- [ ] Lesson 60. Why Use Private Modifiers Here's Why
-- [ ] Lesson 61. Adding Markers
+- [x] Lesson 57. Google Maps Integration
+- [x] Lesson 58. Exploring Type Definition Files
+- [x] Lesson 59. Hiding Functionality
+- [x] Lesson 60. Why Use Private Modifiers Here's Why
+- [x] Lesson 61. Adding Markers
 - [ ] Lesson 62. Duplicate Code
 - [ ] Lesson 63. One Possible Solution
 - [ ] Lesson 64. Restricting Access with Interfaces
