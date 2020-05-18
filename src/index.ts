@@ -4,4 +4,4 @@ const logSomething = () => {
   console.log("something");
 };
 
-logSomething()
+logSomething();
