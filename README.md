@@ -93,9 +93,9 @@
 - [x] Lesson 64. Restricting Access with Interfaces
 - [x] Lesson 65. Implicit Type Checks
 - [x] Lesson 66. Showing Popup Windows
-- [ ] Lesson 67. Updating Interface Definitions
-- [ ] Lesson 68. Optional Implements Clauses
-- [ ] Lesson 69. App Wrapup
+- [x] Lesson 67. Updating Interface Definitions
+- [x] Lesson 68. Optional Implements Clauses
+- [x] Lesson 69. App Wrapup
 
 #### 10. More on Design Patterns
 
