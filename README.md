@@ -89,10 +89,10 @@
 - [x] Lesson 60. Why Use Private Modifiers Here's Why
 - [x] Lesson 61. Adding Markers
 - [x] Lesson 62. Duplicate Code
-- [ ] Lesson 63. One Possible Solution
-- [ ] Lesson 64. Restricting Access with Interfaces
-- [ ] Lesson 65. Implicit Type Checks
-- [ ] Lesson 66. Showing Popup Windows
+- [x] Lesson 63. One Possible Solution
+- [x] Lesson 64. Restricting Access with Interfaces
+- [x] Lesson 65. Implicit Type Checks
+- [x] Lesson 66. Showing Popup Windows
 - [ ] Lesson 67. Updating Interface Definitions
 - [ ] Lesson 68. Optional Implements Clauses
 - [ ] Lesson 69. App Wrapup
