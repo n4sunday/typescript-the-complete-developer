@@ -4,7 +4,9 @@
   "description": "- [x] Lesson 0. How to Get Help\r - [x] Lesson 1. Typescript Overview\r - [ ] Lesson 2. Environment Setup\r - [ ] Lesson 3. A First App\r - [ ] Lesson 4. Executing Typescript Code\r - [ ] Lesson 5. One Quick Change\r - [ ] Lesson 6. Catching Errors with Typescript\r - [ ] Lesson 7. Catching More Errors!",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
   },
   "repository": {
     "type": "git",
@@ -18,10 +20,8 @@
   },
   "homepage": "https://github.com/n4sunday/typescript-the-complete-developer#readme",
   "dependencies": {
-    "@types/faker": "^4.1.12",
-    "@types/googlemaps": "^3.39.6",
-    "axios": "^0.19.2",
-    "faker": "^4.1.0"
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4"
   },
   "devDependencies": {
     "typescript": "^3.9.2"

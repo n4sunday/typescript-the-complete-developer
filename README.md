@@ -99,26 +99,26 @@
 
 #### 10. More on Design Patterns
 
-- [ ] Lesson 70. App Overview
-- [ ] Lesson 71. Configuring the TS Compiler
-- [ ] Lesson 72. Concurrent Compilation and Execution
-- [ ] Lesson 73. A Simple Sorting Algorithm
-- [ ] Lesson 74. Sorter Scaffolding
-- [ ] Lesson 75. Sorting Implementation
-- [ ] Lesson 76. Two Huge Issues
-- [ ] Lesson 77. Typescript is Really Smart
-- [ ] Lesson 78. Type Guards
-- [ ] Lesson 79. Why is This Bad
-- [ ] Lesson 80. Extracting Key Logic
-- [ ] Lesson 81. Separating Swapping and Comparison
-- [ ] Lesson 82. The Big Reveal
-- [ ] Lesson 83. Interface Definition
-- [ ] Lesson 84. Sorting Arbitrary Collections
-- [ ] Lesson 85. Linked List Implementation
-- [ ] Lesson 86. Just...One...More...Fix...
-- [ ] Lesson 87. Integrating the Sort Method
-- [ ] Lesson 88. Issues with Inheritance
-- [ ] Lesson 89. Abstract Classes
-- [ ] Lesson 90. Why Use Abstract Classes
-- [ ] Lesson 91. Solving All Issues with Abstract Classes
-- [ ] Lesson 92. Interfaces vs Abstract Classes
+- [x] Lesson 70. App Overview
+- [x] Lesson 71. Configuring the TS Compiler
+- [x] Lesson 72. Concurrent Compilation and Execution
+- [x] Lesson 73. A Simple Sorting Algorithm
+- [x] Lesson 74. Sorter Scaffolding
+- [x] Lesson 75. Sorting Implementation
+- [x] Lesson 76. Two Huge Issues
+- [x] Lesson 77. Typescript is Really Smart
+- [x] Lesson 78. Type Guards
+- [x] Lesson 79. Why is This Bad
+- [x] Lesson 80. Extracting Key Logic
+- [x] Lesson 81. Separating Swapping and Comparison
+- [x] Lesson 82. The Big Reveal
+- [x] Lesson 83. Interface Definition
+- [x] Lesson 84. Sorting Arbitrary Collections
+- [x] Lesson 85. Linked List Implementation
+- [x] Lesson 86. Just...One...More...Fix...
+- [x] Lesson 87. Integrating the Sort Method
+- [x] Lesson 88. Issues with Inheritance
+- [x] Lesson 89. Abstract Classes
+- [x] Lesson 90. Why Use Abstract Classes
+- [x] Lesson 91. Solving All Issues with Abstract Classes
+- [x] Lesson 92. Interfaces vs Abstract Classes
