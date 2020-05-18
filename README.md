@@ -111,8 +111,8 @@
 - [x] Lesson 79. Why is This Bad
 - [x] Lesson 80. Extracting Key Logic
 - [x] Lesson 81. Separating Swapping and Comparison
-- [ ] Lesson 82. The Big Reveal
-- [ ] Lesson 83. Interface Definition
+- [x] Lesson 82. The Big Reveal
+- [x] Lesson 83. Interface Definition
 - [ ] Lesson 84. Sorting Arbitrary Collections
 - [ ] Lesson 85. Linked List Implementation
 - [ ] Lesson 86. Just...One...More...Fix...
