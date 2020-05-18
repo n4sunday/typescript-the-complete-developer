@@ -99,8 +99,8 @@
 
 #### 10. More on Design Patterns
 
-- [ ] Lesson 70. App Overview
-- [ ] Lesson 71. Configuring the TS Compiler
+- [x] Lesson 70. App Overview
+- [x] Lesson 71. Configuring the TS Compiler
 - [ ] Lesson 72. Concurrent Compilation and Execution
 - [ ] Lesson 73. A Simple Sorting Algorithm
 - [ ] Lesson 74. Sorter Scaffolding
