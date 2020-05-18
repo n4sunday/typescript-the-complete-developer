@@ -101,10 +101,10 @@
 
 - [x] Lesson 70. App Overview
 - [x] Lesson 71. Configuring the TS Compiler
-- [ ] Lesson 72. Concurrent Compilation and Execution
-- [ ] Lesson 73. A Simple Sorting Algorithm
-- [ ] Lesson 74. Sorter Scaffolding
-- [ ] Lesson 75. Sorting Implementation
+- [x] Lesson 72. Concurrent Compilation and Execution
+- [x] Lesson 73. A Simple Sorting Algorithm
+- [x] Lesson 74. Sorter Scaffolding
+- [x] Lesson 75. Sorting Implementation
 - [ ] Lesson 76. Two Huge Issues
 - [ ] Lesson 77. Typescript is Really Smart
 - [ ] Lesson 78. Type Guards
