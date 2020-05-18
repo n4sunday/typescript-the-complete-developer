@@ -75,27 +75,27 @@
 #### 9. Design Patterns with Typescript
 
 - [x] Lesson 48. App Overview
-- [ ] Lesson 49. Bundling with Parcel
-- [ ] Lesson 50. Project Structure
-- [ ] Lesson 51. Generating Random Data
-- [ ] Lesson 52. Type Definition Files
-- [ ] Lesson 53. Using Type Definition Files
-- [ ] Lesson 54. Export Statements inTypescript
-- [ ] Lesson 55. Defining a Company
-- [ ] Lesson 56. Adding Google Maps Support
-- [ ] Lesson 57. Google Maps Integration
-- [ ] Lesson 58. Exploring Type Definition Files
-- [ ] Lesson 59. Hiding Functionality
-- [ ] Lesson 60. Why Use Private Modifiers Here's Why
-- [ ] Lesson 61. Adding Markers
-- [ ] Lesson 62. Duplicate Code
-- [ ] Lesson 63. One Possible Solution
-- [ ] Lesson 64. Restricting Access with Interfaces
-- [ ] Lesson 65. Implicit Type Checks
-- [ ] Lesson 66. Showing Popup Windows
-- [ ] Lesson 67. Updating Interface Definitions
-- [ ] Lesson 68. Optional Implements Clauses
-- [ ] Lesson 69. App Wrapup
+- [x] Lesson 49. Bundling with Parcel
+- [x] Lesson 50. Project Structure
+- [x] Lesson 51. Generating Random Data
+- [x] Lesson 52. Type Definition Files
+- [x] Lesson 53. Using Type Definition Files
+- [x] Lesson 54. Export Statements inTypescript
+- [x] Lesson 55. Defining a Company
+- [x] Lesson 56. Adding Google Maps Support
+- [x] Lesson 57. Google Maps Integration
+- [x] Lesson 58. Exploring Type Definition Files
+- [x] Lesson 59. Hiding Functionality
+- [x] Lesson 60. Why Use Private Modifiers Here's Why
+- [x] Lesson 61. Adding Markers
+- [x] Lesson 62. Duplicate Code
+- [x] Lesson 63. One Possible Solution
+- [x] Lesson 64. Restricting Access with Interfaces
+- [x] Lesson 65. Implicit Type Checks
+- [x] Lesson 66. Showing Popup Windows
+- [x] Lesson 67. Updating Interface Definitions
+- [x] Lesson 68. Optional Implements Clauses
+- [x] Lesson 69. App Wrapup
 
 #### 10. More on Design Patterns
 

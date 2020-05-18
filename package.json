@@ -18,6 +18,12 @@
   },
   "homepage": "https://github.com/n4sunday/typescript-the-complete-developer#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "@types/faker": "^4.1.12",
+    "@types/googlemaps": "^3.39.6",
+    "axios": "^0.19.2",
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.2"
   }
 }
