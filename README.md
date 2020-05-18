@@ -105,12 +105,12 @@
 - [x] Lesson 73. A Simple Sorting Algorithm
 - [x] Lesson 74. Sorter Scaffolding
 - [x] Lesson 75. Sorting Implementation
-- [ ] Lesson 76. Two Huge Issues
-- [ ] Lesson 77. Typescript is Really Smart
-- [ ] Lesson 78. Type Guards
-- [ ] Lesson 79. Why is This Bad
-- [ ] Lesson 80. Extracting Key Logic
-- [ ] Lesson 81. Separating Swapping and Comparison
+- [x] Lesson 76. Two Huge Issues
+- [x] Lesson 77. Typescript is Really Smart
+- [x] Lesson 78. Type Guards
+- [x] Lesson 79. Why is This Bad
+- [x] Lesson 80. Extracting Key Logic
+- [x] Lesson 81. Separating Swapping and Comparison
 - [ ] Lesson 82. The Big Reveal
 - [ ] Lesson 83. Interface Definition
 - [ ] Lesson 84. Sorting Arbitrary Collections
