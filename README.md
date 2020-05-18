@@ -88,7 +88,7 @@
 - [x] Lesson 59. Hiding Functionality
 - [x] Lesson 60. Why Use Private Modifiers Here's Why
 - [x] Lesson 61. Adding Markers
-- [ ] Lesson 62. Duplicate Code
+- [x] Lesson 62. Duplicate Code
 - [ ] Lesson 63. One Possible Solution
 - [ ] Lesson 64. Restricting Access with Interfaces
 - [ ] Lesson 65. Implicit Type Checks
