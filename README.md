@@ -82,7 +82,7 @@
 - [x] Lesson 53. Using Type Definition Files
 - [x] Lesson 54. Export Statements inTypescript
 - [x] Lesson 55. Defining a Company
-- [ ] Lesson 56. Adding Google Maps Support
+- [x] Lesson 56. Adding Google Maps Support
 - [ ] Lesson 57. Google Maps Integration
 - [ ] Lesson 58. Exploring Type Definition Files
 - [ ] Lesson 59. Hiding Functionality
