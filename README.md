@@ -114,11 +114,11 @@
 - [x] Lesson 82. The Big Reveal
 - [x] Lesson 83. Interface Definition
 - [x] Lesson 84. Sorting Arbitrary Collections
-- [ ] Lesson 85. Linked List Implementation
-- [ ] Lesson 86. Just...One...More...Fix...
-- [ ] Lesson 87. Integrating the Sort Method
-- [ ] Lesson 88. Issues with Inheritance
-- [ ] Lesson 89. Abstract Classes
-- [ ] Lesson 90. Why Use Abstract Classes
-- [ ] Lesson 91. Solving All Issues with Abstract Classes
-- [ ] Lesson 92. Interfaces vs Abstract Classes
+- [x] Lesson 85. Linked List Implementation
+- [x] Lesson 86. Just...One...More...Fix...
+- [x] Lesson 87. Integrating the Sort Method
+- [x] Lesson 88. Issues with Inheritance
+- [x] Lesson 89. Abstract Classes
+- [x] Lesson 90. Why Use Abstract Classes
+- [x] Lesson 91. Solving All Issues with Abstract Classes
+- [x] Lesson 92. Interfaces vs Abstract Classes
