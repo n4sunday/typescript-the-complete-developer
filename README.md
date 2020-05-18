@@ -113,7 +113,7 @@
 - [x] Lesson 81. Separating Swapping and Comparison
 - [x] Lesson 82. The Big Reveal
 - [x] Lesson 83. Interface Definition
-- [ ] Lesson 84. Sorting Arbitrary Collections
+- [x] Lesson 84. Sorting Arbitrary Collections
 - [ ] Lesson 85. Linked List Implementation
 - [ ] Lesson 86. Just...One...More...Fix...
 - [ ] Lesson 87. Integrating the Sort Method
