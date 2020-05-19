@@ -164,6 +164,6 @@
 
 #### 12. Advanced Generics
 - [x] Lesson 129. More on Generics
-- [ ] Lesson 130. Type Inference with Generics
-- [ ] Lesson 131. Function Generics
-- [ ] Lesson 132. Generic Constraints
+- [x] Lesson 130. Type Inference with Generics
+- [x] Lesson 131. Function Generics
+- [x] Lesson 132. Generic Constraints

@@ -44,3 +44,30 @@ function printAnything<T>(arr: T[]): void {
 }
 
 printAnything<string>(["a", "b", "c"]);
+
+// Genric Contraints
+
+class Car {
+  print() {
+    console.log("I am a car");
+  }
+}
+
+class House {
+  print() {
+    console.log("I am a house");
+  }
+}
+
+interface Printtable {
+  print(): void;
+}
+
+function printHousesOrCars<T extends Printtable>(arr: T[]): void {
+  for (let i = 0; i < arr.length; i++) {
+    arr[i].print();
+  }
+}
+
+printHousesOrCars([new House(), new House()]);
+printHousesOrCars([new Car(), new Car()]);
