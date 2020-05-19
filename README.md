@@ -157,7 +157,7 @@
 - [x] Lesson 122. Implementing an Analyzer Class
 - [x] Lesson 123. Building the Reporter
 - [x] Lesson 124. Putting It All Together
-- [ ] Lesson 125. Generating HTML Reports
+- [x] Lesson 125. Generating HTML Reports
 - [ ] Lesson 126. One Last Thing!
 - [ ] Lesson 127. Oops, My Bad
 - [ ] Lesson 128. App Wrapup
