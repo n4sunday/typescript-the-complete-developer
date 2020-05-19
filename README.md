@@ -144,11 +144,11 @@
 - [x] Lesson 109. Creating Abstract Classes
 - [x] Lesson 110. Variable Types with Generics
 - [x] Lesson 111. Applying a Type to a Generic Class
-- [ ] Lesson 112. Alternate Refactor
-- [ ] Lesson 113. Interface-Based Approach
-- [ ] Lesson 114. Extracting Match References - Again!
-- [ ] Lesson 115. Transforming Data
-- [ ] Lesson 116. Updating Reader References
+- [x] Lesson 112. Alternate Refactor
+- [x] Lesson 113. Interface-Based Approach
+- [x] Lesson 114. Extracting Match References - Again!
+- [x] Lesson 115. Transforming Data
+- [x] Lesson 116. Updating Reader References
 - [ ] Lesson 117. Inheritance vs Composition
 - [ ] Lesson 118. More on Inheritance vs Composition
 - [ ] Lesson 119. A Huge Misconception Around Composition
