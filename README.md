@@ -134,8 +134,8 @@
 - [x] Lesson 99. Using Enums
 - [x] Lesson 100. When to Use Enums
 - [x] Lesson 101. Extracting CSV Reading
-- [ ] Lesson 102. Data Types
-- [ ] Lesson 103. Converting Date Strings to Dates
+- [x] Lesson 102. Data Types
+- [x] Lesson 103. Converting Date Strings to Dates
 - [ ] Lesson 104. Converting Row Values
 - [ ] Lesson 105. Type Assertions
 - [ ] Lesson 106. Describing a Row with a Tuple
