@@ -161,3 +161,9 @@
 - [x] Lesson 126. One Last Thing!
 - [x] Lesson 127. Oops, My Bad
 - [x] Lesson 128. App Wrapup
+
+#### 12. Advanced Generics
+- [x] Lesson 129. More on Generics
+- [ ] Lesson 130. Type Inference with Generics
+- [ ] Lesson 131. Function Generics
+- [ ] Lesson 132. Generic Constraints
