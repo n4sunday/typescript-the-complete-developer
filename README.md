@@ -129,7 +129,7 @@
 - [x] Lesson 94. Project Setup
 - [x] Lesson 95. Type Definition Files - Again!
 - [x] Lesson 96. Reading CSV Files
-- [ ] Lesson 97. Running an Analysis
+- [x] Lesson 97. Running an Analysis
 - [ ] Lesson 98. Losing Dataset Context
 - [ ] Lesson 99. Using Enums
 - [ ] Lesson 100. When to Use Enums
