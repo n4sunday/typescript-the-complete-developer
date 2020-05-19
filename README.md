@@ -149,14 +149,14 @@
 - [x] Lesson 114. Extracting Match References - Again!
 - [x] Lesson 115. Transforming Data
 - [x] Lesson 116. Updating Reader References
-- [ ] Lesson 117. Inheritance vs Composition
-- [ ] Lesson 118. More on Inheritance vs Composition
-- [ ] Lesson 119. A Huge Misconception Around Composition
-- [ ] Lesson 120. Goal Moving Forward
-- [ ] Lesson 121. A Composition-Based Approach
-- [ ] Lesson 122. Implementing an Analyzer Class
-- [ ] Lesson 123. Building the Reporter
-- [ ] Lesson 124. Putting It All Together
+- [x] Lesson 117. Inheritance vs Composition
+- [x] Lesson 118. More on Inheritance vs Composition
+- [x] Lesson 119. A Huge Misconception Around Composition
+- [x] Lesson 120. Goal Moving Forward
+- [x] Lesson 121. A Composition-Based Approach
+- [x] Lesson 122. Implementing an Analyzer Class
+- [x] Lesson 123. Building the Reporter
+- [x] Lesson 124. Putting It All Together
 - [ ] Lesson 125. Generating HTML Reports
 - [ ] Lesson 126. One Last Thing!
 - [ ] Lesson 127. Oops, My Bad
