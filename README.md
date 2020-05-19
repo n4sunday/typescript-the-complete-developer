@@ -122,3 +122,42 @@
 - [x] Lesson 90. Why Use Abstract Classes
 - [x] Lesson 91. Solving All Issues with Abstract Classes
 - [x] Lesson 92. Interfaces vs Abstract Classes
+
+#### 11. Reusable Code
+
+- [x] Lesson 93. Project Overview
+- [x] Lesson 94. Project Setup
+- [x] Lesson 95. Type Definition Files - Again!
+- [x] Lesson 96. Reading CSV Files
+- [ ] Lesson 97. Running an Analysis
+- [ ] Lesson 98. Losing Dataset Context
+- [ ] Lesson 99. Using Enums
+- [ ] Lesson 100. When to Use Enums
+- [ ] Lesson 101. Extracting CSV Reading
+- [ ] Lesson 102. Data Types
+- [ ] Lesson 103. Converting Date Strings to Dates
+- [ ] Lesson 104. Converting Row Values
+- [ ] Lesson 105. Type Assertions
+- [ ] Lesson 106. Describing a Row with a Tuple
+- [ ] Lesson 107. Not Done with FileReader Yet!
+- [ ] Lesson 108. Understanding Refactor #1
+- [ ] Lesson 109. Creating Abstract Classes
+- [ ] Lesson 110. Variable Types with Generics
+- [ ] Lesson 111. Applying a Type to a Generic Class
+- [ ] Lesson 112. Alternate Refactor
+- [ ] Lesson 113. Interface-Based Approach
+- [ ] Lesson 114. Extracting Match References - Again!
+- [ ] Lesson 115. Transforming Data
+- [ ] Lesson 116. Updating Reader References
+- [ ] Lesson 117. Inheritance vs Composition
+- [ ] Lesson 118. More on Inheritance vs Composition
+- [ ] Lesson 119. A Huge Misconception Around Composition
+- [ ] Lesson 120. Goal Moving Forward
+- [ ] Lesson 121. A Composition-Based Approach
+- [ ] Lesson 122. Implementing an Analyzer Class
+- [ ] Lesson 123. Building the Reporter
+- [ ] Lesson 124. Putting It All Together
+- [ ] Lesson 125. Generating HTML Reports
+- [ ] Lesson 126. One Last Thing!
+- [ ] Lesson 127. Oops, My Bad
+- [ ] Lesson 128. App Wrapup
