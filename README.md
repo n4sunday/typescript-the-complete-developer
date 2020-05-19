@@ -158,6 +158,6 @@
 - [x] Lesson 123. Building the Reporter
 - [x] Lesson 124. Putting It All Together
 - [x] Lesson 125. Generating HTML Reports
-- [ ] Lesson 126. One Last Thing!
-- [ ] Lesson 127. Oops, My Bad
-- [ ] Lesson 128. App Wrapup
+- [x] Lesson 126. One Last Thing!
+- [x] Lesson 127. Oops, My Bad
+- [x] Lesson 128. App Wrapup
