@@ -136,14 +136,14 @@
 - [x] Lesson 101. Extracting CSV Reading
 - [x] Lesson 102. Data Types
 - [x] Lesson 103. Converting Date Strings to Dates
-- [ ] Lesson 104. Converting Row Values
-- [ ] Lesson 105. Type Assertions
-- [ ] Lesson 106. Describing a Row with a Tuple
-- [ ] Lesson 107. Not Done with FileReader Yet!
-- [ ] Lesson 108. Understanding Refactor #1
-- [ ] Lesson 109. Creating Abstract Classes
-- [ ] Lesson 110. Variable Types with Generics
-- [ ] Lesson 111. Applying a Type to a Generic Class
+- [x] Lesson 104. Converting Row Values
+- [x] Lesson 105. Type Assertions
+- [x] Lesson 106. Describing a Row with a Tuple
+- [x] Lesson 107. Not Done with FileReader Yet!
+- [x] Lesson 108. Understanding Refactor #1
+- [x] Lesson 109. Creating Abstract Classes
+- [x] Lesson 110. Variable Types with Generics
+- [x] Lesson 111. Applying a Type to a Generic Class
 - [ ] Lesson 112. Alternate Refactor
 - [ ] Lesson 113. Interface-Based Approach
 - [ ] Lesson 114. Extracting Match References - Again!
