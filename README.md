@@ -132,8 +132,8 @@
 - [x] Lesson 97. Running an Analysis
 - [x] Lesson 98. Losing Dataset Context
 - [x] Lesson 99. Using Enums
-- [ ] Lesson 100. When to Use Enums
-- [ ] Lesson 101. Extracting CSV Reading
+- [x] Lesson 100. When to Use Enums
+- [x] Lesson 101. Extracting CSV Reading
 - [ ] Lesson 102. Data Types
 - [ ] Lesson 103. Converting Date Strings to Dates
 - [ ] Lesson 104. Converting Row Values
