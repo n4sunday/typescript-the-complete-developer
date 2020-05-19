@@ -130,8 +130,8 @@
 - [x] Lesson 95. Type Definition Files - Again!
 - [x] Lesson 96. Reading CSV Files
 - [x] Lesson 97. Running an Analysis
-- [ ] Lesson 98. Losing Dataset Context
-- [ ] Lesson 99. Using Enums
+- [x] Lesson 98. Losing Dataset Context
+- [x] Lesson 99. Using Enums
 - [ ] Lesson 100. When to Use Enums
 - [ ] Lesson 101. Extracting CSV Reading
 - [ ] Lesson 102. Data Types
